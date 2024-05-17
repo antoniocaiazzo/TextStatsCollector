@@ -1,0 +1,13 @@
+static
+out
+node_modules
+.next
+ssl
+*.jpg
+*.png
+*.lock
+*.crt
+*.key
+*.txt
+*.md
+.prettierignore
